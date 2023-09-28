@@ -2,7 +2,7 @@
 # Time Succes decompile : 2023-02-07 00:26:14.084668
 from os import path
 import os,base64,zlib,pip,urllib
-os.system('xdg-open https://www.facebook.com/profile.php?id=100074359838041')
+os.system('xdg-open https://www.facebook.com/profile.php?id=waris.dawoodzai')
 print('\n\033[1;37m MR AFG HKR TOOLS UPDATE...\n NICE CLONER...')
 import uuid
 import os,sys,time,json,random,re,string,platform,base64
@@ -518,4 +518,4 @@ def approval():
   except:
     sys.exit()
     
-riaz()
+riaz() 
