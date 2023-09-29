@@ -1,4 +1,3 @@
-riaz() 
 # Decompile by Mardis (Tools By Kapten-Kaizo)
 # Time Succes decompile : 2023-02-07 00:26:14.084668
 from os import path
