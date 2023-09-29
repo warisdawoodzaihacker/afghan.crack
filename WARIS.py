@@ -1,5 +1,4 @@
-     time.sleep(1)
-      approval()
+approval()
   except:
     sys.exit()
     
